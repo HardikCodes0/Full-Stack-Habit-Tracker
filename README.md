@@ -91,7 +91,7 @@ MySQL Connector/J (JDBC Driver)
 
 ✨ Credits
 
-Developed by [Your Name]Designed and built with ❤️ using JavaFX
+Developed by hardik batra . Designed and built with ❤️ using JavaFX
 
 📄 License
 
