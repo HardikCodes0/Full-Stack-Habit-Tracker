@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Pacifico';
+    src: url('/Pacifico-Regular.ttf');
+}
+
+.habit-title {
+    -fx-font-family: 'Pacifico';
+    -fx-font-size: 38px;
+    -fx-text-fill: black;
+}
+
+.form-heading {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.form-subtext {
+    -fx-text-fill: #666;
+}
+
+.login-btn {
+    -fx-background-color: #f57802;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 8px 16px;
+}
